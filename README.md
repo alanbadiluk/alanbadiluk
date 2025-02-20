@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá 👊
 
-<!--
-**alanbadiluk/alanbadiluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👾 Me chamo Alan Vinicius Sagaz Badiluk
 
-Here are some ideas to get you started:
+🤳 Tenho 19 anos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🎓 Estou cursando Desenvolvimento de Sistemas no SENAI
+
+🔧 Atualmente estudando:
+
+Lógica de programação
+Algoritmos e estruturas de dados
+
+🚀 O GitHub será o meu espaço para registrar meu aprendizado enquanto vou desenvolvendo minhas habilidades
