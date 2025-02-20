@@ -15,7 +15,7 @@ Sou o Alan, estudante de Desenvolvimento de Sistemas no SENAI. Comecei essa jorn
 ● Algoritmos e Estruturas de Dados (conceitos iniciais)
 
 🌟 Objetivos:
-Neste estágio inicial, meu foco é entender os conceitos fundamentais da programação para, no futuro, poder avançar para linguagens de programação e outras áreas do desenvolvimento de sistemas.
+Neste estágio inicial, meu foco é entender os conceitos fundamentais da programação para, no futuro, poder avançar para linguagens de programação e outras áreas, como a engenharia de software.
 
 
 
