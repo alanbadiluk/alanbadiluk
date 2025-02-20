@@ -8,7 +8,7 @@
 
 🔧 Atualmente estudando:
 
-Lógica de programação
-Algoritmos e estruturas de dados
+● Lógica de programação
+● Algoritmos e estruturas de dados
 
 🚀 O GitHub será o meu espaço para registrar meu aprendizado enquanto vou desenvolvendo minhas habilidades
